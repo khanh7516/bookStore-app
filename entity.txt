@@ -1,0 +1,37 @@
+
+
+
+Book
+BookItem
+User
+Author
+Category
+Image
+Cart
+ShoppingCartItem
+
+
+
+
+User < Book
+User - Image
+User - Cart
+User < Order
+
+
+Book < Image
+Book >< Category
+Book >< Author
+
+
+ShoppingCartItem 
+
+
+
+Cart < ShoppingCartItem
+Book < 
+
+
+
+
+

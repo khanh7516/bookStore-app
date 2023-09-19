@@ -1,0 +1,44 @@
+
+					figma				Frontend				Backend
+
+admin: 
+1 page
+(side menu bar,
+statistics view,
+book list
+blog list
+questions(requests)
+)
+
+
+blogger:
+writting blog
+blog list
+trash
+
+bookstore: 
+
+loginPage(register as user)				
+registerAsBlogger
+
+mainHome    			x	
+bookList    			
+bookDetail				
+readingEbook(option)			
+buyingSucceed
+FAQ(about us)			
+
+cartView
+userBooks
+buyingHistory
+userView
+
+
+blogList
+blogDetail
+
+
+authorList
+authorDetail
+
+
